@@ -1,4 +1,4 @@
-package com.example.colorphone.ui.share.base
+package com.example.colorphone.ui.core.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

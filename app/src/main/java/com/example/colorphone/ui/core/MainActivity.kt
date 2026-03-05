@@ -1,8 +1,8 @@
-package com.example.colorphone.ui.main
+package com.example.colorphone.ui.core
 
 import android.os.Bundle
 import com.example.colorphone.databinding.ActivityMainBinding
-import com.example.colorphone.ui.share.base.BaseActivity
+import com.example.colorphone.ui.core.base.BaseActivity
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

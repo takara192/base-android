@@ -16,5 +16,5 @@ dependencyResolutionManagement {
 
 }
 
-rootProject.name = "ColorPhone"
+rootProject.name = "BaseAndroid"
 include(":app")
